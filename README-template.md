@@ -2,7 +2,7 @@
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/repository-template/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/CanDIG/repository-template)
 ![Twitter Follow](https://img.shields.io/twitter/follow/distribgenomics?style=social)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
