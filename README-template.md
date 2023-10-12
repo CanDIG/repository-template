@@ -41,7 +41,7 @@ To use <project_name>, follow these steps:
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
 ## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
+<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING file--->
 To contribute to <project_name>, follow these steps:
 
 1. Fork this repository.
@@ -64,6 +64,4 @@ You might want to consider using something like the [All Contributors](https://g
 
 
 ## License
-All CanDIG code is licensed with LGPL-3.0 license.
-
-This project uses the following license: [<license_name>](<link>).
+All CanDIG code is licensed with [LGPL-3.0 license](https://www.gnu.org/licenses/lgpl-3.0.en.html).
