@@ -27,6 +27,7 @@
 - [ ] 💥 Breaking change (fix or feature that would cause existing functionality to change)
 
 If breaking, Which other services does it affect?
+
 - [ ] authx
 - [ ] data-portal
 - [ ] ingest
@@ -37,7 +38,7 @@ If breaking, Which other services does it affect?
 - [ ] CanDIG OPA
 - [ ] Query
 
-<!--- describe the impact the PR will have on the services selected above --->
+<!--- If a breaking change, describe the impact the PR will have on the services selected above --->
 
 ## Has it been tested for:
 
