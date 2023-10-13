@@ -1,6 +1,6 @@
-<!--- This is a template for a standard PR against the default/develop branch of the repo, if you are making a stable release PR, replace "?expand=1" with "?template=stable_pr_template.md" at the end of your URL in your browser above ^ --->
+<!--- This is a template for a standard PR against the default/develop branch of the repo, if you are making a stable release PR, replace "?expand=1" with "?template=stable_pr_template.md&title=v.X.X.X: [Release Description]" at the end of your URL in your browser above ^ --->
 
-<!--- Please name your pull request with the Jira ticket referende (DIG-[0-9]*) it is fixing and a descriptive title --->
+<!--- Please name your pull request with the Jira ticket reference (DIG-[0-9]*) it is fixing and a descriptive title --->
 
 # Ticket(s)
 
