@@ -5,8 +5,12 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/CanDIG/repository-template)
 ![Twitter Follow](https://img.shields.io/twitter/follow/distribgenomics?style=social)
 
-![codefactor grade](https://img.shields.io/codefactor/grade/github/CanDIG/htsget_app/develop)
-![codefactor grade](https://img.shields.io/codefactor/grade/github/CanDIG/katsu/develop)
+[![CodeFactor](https://www.codefactor.io/repository/github/CanDIG/htsget_app/badge)](https://www.codefactor.io/repository/github/CanDIG/htsget_app)
+[![Build Status](https://travis-ci.org/CanDIG/htsget_app.svg?branch=master)](https://travis-ci.org/CanDIG/htsget_app)
+[![PyUp](https://pyup.io/repos/github/CanDIG/htsget_app/shield.svg)](https://pyup.io/repos/github/CanDIG/htsget_app/)
+![Test Status](https://github.com/CanDIG/katsu/workflows/Test/badge.svg)
+![Lint Status](https://github.com/CanDIG/katsu/workflows/Lint/badge.svg)
+[![codecov](https://codecov.io/gh/CanDIG/katsu/branch/master/graph/badge.svg)](https://codecov.io/gh/CanDIG/katsu)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
