@@ -8,8 +8,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/CanDIG/htsget_app/badge)](https://www.codefactor.io/repository/github/CanDIG/htsget_app)
 [![Build Status](https://travis-ci.org/CanDIG/htsget_app.svg?branch=master)](https://travis-ci.org/CanDIG/htsget_app)
 [![PyUp](https://pyup.io/repos/github/CanDIG/htsget_app/shield.svg)](https://pyup.io/repos/github/CanDIG/htsget_app/)
-![Test Status](https://github.com/CanDIG/katsu/workflows/Test/badge.svg)
-![Lint Status](https://github.com/CanDIG/katsu/workflows/Lint/badge.svg)
+
+[![Test Status](https://github.com/CanDIG/katsu/workflows/Test/badge.svg)](https://github.com/CanDIG/katsu/actions/workflows/test.yml)
+[![Lint Status](https://github.com/CanDIG/katsu/workflows/Lint/badge.svg)](https://github.com/CanDIG/katsu/actions/workflows/lint.yml)
 [![codecov](https://codecov.io/gh/CanDIG/katsu/branch/master/graph/badge.svg)](https://codecov.io/gh/CanDIG/katsu)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
@@ -37,7 +38,7 @@ Windows:
 ```
 <install_command>
 ```
-## Using <project_name>
+## Running <project_name>
 
 To use <project_name>, follow these steps:
 
@@ -47,17 +48,12 @@ To use <project_name>, follow these steps:
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
+## Testing
+
+Add information about what tests are available for the software and how to run them
+
 ## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING file--->
-To contribute to <project_name>, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+See our [CONTRIBUTING](CONTRIBUTING.md) page for details on how to contribute to this project.
 
 ## Contributors
 
@@ -66,9 +62,6 @@ Thanks to the following people who have contributed to this project:
 * [@github-username](https://github.com/github-username) 📖
 * [@github-username](https://github.com/github-username) 🐛
 * [@github-username](https://github.com/github-username) 🐛
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
-
 
 ## License
 All CanDIG code is licensed with [LGPL-3.0 license](https://www.gnu.org/licenses/lgpl-3.0.en.html).
