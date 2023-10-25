@@ -7,7 +7,7 @@ All CanDIG repositories follow a branch pattern where the default branch is `dev
 
 Generally all active development is done on a fork or branch from the develop branch. Releases of new code to the 'stable' branch occur on an adhoc basis.
 
-## Filess to edit:
+## Files to edit:
 
 ### README-template.md 
 
