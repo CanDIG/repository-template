@@ -2,8 +2,7 @@
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/CanDIG/repository-template)
-![GitHub contributors](https://img.shields.io/github/contributors/CanDIG/repository-template)
-![Twitter Follow](https://img.shields.io/twitter/follow/distribgenomics?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/CanDIG/repository
 
 [![CodeFactor](https://www.codefactor.io/repository/github/CanDIG/htsget_app/badge)](https://www.codefactor.io/repository/github/CanDIG/htsget_app)
 [![Build Status](https://travis-ci.org/CanDIG/htsget_app.svg?branch=master)](https://travis-ci.org/CanDIG/htsget_app)
