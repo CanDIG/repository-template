@@ -15,6 +15,7 @@ Generally all active development is done on a fork or branch from the develop br
 1. Choose which badges you would like to display and edit the URLs so that they pick up the right status
 1. Use the headings as a guide and tailor the information to your code base
 1. Add additional sections as needed
+1. When complete, delete the existing README.md in this directory and change the name of the README-template.md to README.md
 
 ### `.gitignore`
 
