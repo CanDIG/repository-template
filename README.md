@@ -33,9 +33,17 @@ An extensive list of `.gitignore` templates can be found in this repo: [github/g
 
 - Choose between using alpine or debian as the base operating system - we have found alpine can be slow for some applications
 
+### uWSGI config file
+
+If your service will be communicating with other services in the network using the web server gateway interface, you will need to edit the configuration file.
+
+#### `uwsgi.ini`
+
+This sets the configuration for uwsgi. You will need to add the name of the app and the port number as a minimum. The processes and [harakiri](https://uwsgi-docs.readthedocs.io/en/latest/Glossary.html) values can also be updated based on your needs.
+
 ### Github Actions
 
-Templates for two github actions ymls are in the [`.github/workflows/`](.github/workflows) directory and should be edited to suit the needs of the microservice. 
+Templates for two Github actions ymls are in the [`.github/workflows/`](.github/workflows) directory and should be edited to suit the needs of the microservice. 
 
 #### `dispatch-actions.yml`
 
