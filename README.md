@@ -25,6 +25,18 @@ Please edit with any other specific files or folders that may appear in your pro
 
 An extensive list of `.gitignore` templates can be found in this repo: [github/gitignore](https://github.com/github/gitignore)
 
+### Pull Request template
+
+The default PR template used for this repo is [pull_request_template.md](.github/pull_request_template.md). 
+
+This template contains recommended fields for standard PRs to the develop branch of the repo. It can be tailored with any specific sections that may be useful for your project.
+
+Releases, or PRs to the stable branch should use the [stable_pr_template.md](.github/PULL_REQUEST_TEMPLATE/stable_pr_template.md) and the process on Confluence.  
+
+## Microservice specific files:
+
+If you are setting up a new microservice that will be a part of the CanDIGv2 stack, you will most likely need to edit the files below, otherwise they can be deleted from the repo.
+
 ### Dockerfile
 
 - Edit the Dockerfile with the correct names and paths that are relevant to your microservice.
@@ -57,13 +69,6 @@ This action assumes you have setup tests in the repo using [pytest](https://docs
 
 It automatically runs `pytest` on the repo each time a commit is pushed into the remote repo. 
 
-### Pull Request template
-
-The default PR template used for this repo is [pull_request_template.md](.github/pull_request_template.md). 
-
-This template contains recommended fields for standard PRs to the develop branch of the repo. It can be tailored with any specific sections that may be useful for your project.
-
-Releases, or PRs to the stable branch should use the [stable_pr_template.md](.github/PULL_REQUEST_TEMPLATE/stable_pr_template.md) and the process on Confluence.  
 
 ## Acknowledgements
 
